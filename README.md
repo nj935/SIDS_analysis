@@ -1,2 +1,3 @@
 # SIDS_analysis
-SIDS risk indicators
+
+Building indicators of SIDS exposure to natural hazard risk.
